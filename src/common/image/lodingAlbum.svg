@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="40 30 615 253">
+  <defs>
+    <path id="b" d="M0 0h1080v489H0z"/>
+    <filter id="a" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1"
+                     values="0 0 0 0 0.933333333 0 0 0 0 0.933333333 0 0 0 0 0.933333333 0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+      <use fill="#FFF" xlink:href="#b"/>
+    </g>
+
+    <g fill="#F6F6F6">
+      <g transform="translate(76 36)">
+        <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(286 36)">
+        <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(496 36)">
+         <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+    </g>
+    <!-- <g fill="#F6F6F6">
+      <g transform="translate(76 290)">
+       <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(286 290)">
+        <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(496 290)">
+         <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+    </g> -->
+    <!-- <g fill="#F6F6F6">
+      <g transform="translate(76 544)">
+         <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(286 544)">
+         <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+      <g transform="translate(496 544)">
+        <rect x="-18" y="180" width="156" height="40" rx="0" ry="0"></rect>
+        <rect x="-20" y="0" width="160" height="160" rx="30" ry="30"></rect>
+      </g>
+    </g> -->
+  </g>
+</svg>
